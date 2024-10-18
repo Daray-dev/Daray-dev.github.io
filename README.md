@@ -22,13 +22,12 @@ I'm passionate about **technology, development**, and solving real-world problem
 
 ---
 
-## 📈 GitHub Stats
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daray-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daray-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+I am a **DevOps Engineer** with experience in Python, SQL, AWS, and cryptocurrency fraud detection. Currently, I'm working on **CoinBlanket**, a platform leveraging machine learning to detect suspicious transactions in real time.
+
+When I'm not coding, I love exploring new technologies, learning about AI, and staying active with fitness routines. I'm also building my skills in **React**, **Docker**, and **Kafka** to further enhance my development toolbox.
+
 
 ---
 
