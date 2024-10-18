@@ -41,6 +41,3 @@ When I'm not coding, I love exploring new technologies, learning about AI, and s
 ## 📫 Let's Connect!
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/daraymolden/) or [email@domain.com](raymaws1@gmail.com).
-
-
-Theme: https://github.com/sharadcodes/jekyll-theme-serial-programmer.git
