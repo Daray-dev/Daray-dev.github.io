@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Daray Molden] 
+# 👋 Hello, I'm Daray Molden 
 
 I'm passionate about **technology, development**, and solving real-world problems through **innovation** and **data**. Currently working on CoinBlanket focused on building a crypto currency fraud detection platform.
 
