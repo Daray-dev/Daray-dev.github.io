@@ -1,17 +1,21 @@
-title: Jekyll Serial Programmer
-markdown: kramdown
+title: Daray Molden's Portfolio
+description: A portfolio showcasing projects, development skills, and my tech journey.
+baseurl: ""
+url: "https://Daray-dev.github.io"
 
-# for atom feed
+# Author information
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Daray Molden
+  email: raymaws1@gmail.com
 
+# Plugins
 plugins:
   - jemoji
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
 
+# Collections and posts
 collections_dir: all_collections
 collections:
   posts:
@@ -23,4 +27,9 @@ defaults:
     values:
       layout: "post"
       permalink: /posts/:title/
+
+# Exclude certain files from the build
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+
+# Other custom configurations
+paginate: 5
