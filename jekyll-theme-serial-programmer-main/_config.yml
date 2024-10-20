@@ -1,3 +1,5 @@
+theme: jekyll-theme-serial-programmer
+
 title: Daray Molden's Portfolio
 description: A portfolio showcasing projects, development skills, and my tech journey.
 markdown: kramdown
