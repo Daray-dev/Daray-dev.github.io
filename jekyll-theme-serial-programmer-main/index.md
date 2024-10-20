@@ -1,7 +1,9 @@
 ---
-title: Welcome
+title: Test Page
 layout: default
 ---
+
+# This is a test page
 
 # Hello, I'm Daray Molden
 
