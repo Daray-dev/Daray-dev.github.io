@@ -7,7 +7,7 @@ layout: default
 
 # Hello, I'm Daray Molden
 
-I'm passionate about **technology, development**, and solving real-world problems through **innovation** and **data**. Currently, I'm working on **CoinBlanket**, focused on building a cryptocurrency fraud detection platform.
+I'm passionate about **technology, development**, and solving real-world problems through **innovation** and **data**. Currently, I'm working on **UpWork**, focused on building multi-functional websites.
 
 ---
 
@@ -37,10 +37,9 @@ When I'm not coding, I love exploring new technologies, learning about AI, and s
 
 ---
 
-## Current Projects & Contributions
+## Contributions
 
-- [CoinBlanket](https://github.com/Daray-dev/CoinBlanket): A cryptocurrency fraud detection platform.
-- [Other Project](https://github.com/Daray-dev/OtherProject): Brief description of the project.
+- [Up Work](https://github.com/Daray-dev/CoinBlanket): Open for business.
 
 ---
 
